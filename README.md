@@ -1,4 +1,4 @@
-### 📄 `README.md` – İngilizce Açıklama:
+### 📄 `README.md` 
 
 ```markdown
 # Vidify - Video Downloader
